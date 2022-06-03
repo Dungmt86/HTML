@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main{
+    width: 700px;
+    margin: 0 auto;
+    background-color: #4AA272;
+
+}
+.ND {
+    margin: 0 auto;
+    width: 600px;
+
+}
+.tieude{
+    background: white;
+    height: 85px;
+    width: 100%;
+}
+
+.email{
+    width: 100%;
+    height: 450px;
+    background: white;
+}
+.face{
+
+    height: 85px;
+    background-color: blue;
+    width: 100%;
+}
+.google{
+
+    height: 85px;
+    background-color: palevioletred;
+    width: 100%;
+}
+
+.login{
+    text-align: center;
+    padding: 10px 0;
+    float: left;
+    width: 50%;
+    height: 100%;
+
+}
+
+.register{
+
+
+    width: 50%;
+    height: 100%;
+
+}
+.tren{
+    width: 100%;
+    height: 30%;
+
+}
+.giua{
+    width: 100%;
+    height: 40%;
+
+}
+.duoi{
+    width: 100%;;
+    height: 30%;
+}
